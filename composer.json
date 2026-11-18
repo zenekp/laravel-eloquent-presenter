@@ -12,11 +12,9 @@
   ],
   "require": {
     "php": ">=8.0",
-    "zenekp/array-access-presenter": "0.2.0"
+    "zenekp/array-access-presenter": "^0.2.0"
   },
-  "require-dev": {
-    "phpunit/phpunit": "^10.5"
-  },
+  "require-dev": {},
   "autoload": {
     "psr-4": {
       "Zenekp\\LaravelEloquentPresenter\\": "src/"
